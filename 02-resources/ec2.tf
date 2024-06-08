@@ -26,12 +26,12 @@ resource "aws_instance" "mysql" {
 }
 
 variable "ami" {
-  default = "ami-05f020f5935e52dc4"
+  default = "ami-031d574cddc5bb371"
 }
 variable "instance_type" {
   default = "t3.micro"
 }
 
 variable "security_groups" {
-  default = ["sg-0ba469f077949363e"]
+  default = ["sg-0a46f69bf62efac7e"]
 }

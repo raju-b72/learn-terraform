@@ -1,3 +1,3 @@
 bucket = "raj-buck"
-key = "mug/prod/state"
+key = "buck/prod/state"
 region = "us-east-1"
